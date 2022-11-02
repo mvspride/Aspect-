@@ -1,5 +1,4 @@
 # Aspect
-Aspect is a fun coding learning application meant for beginner programmers. Learn the basics of languages like python and java and compete with other aspecters!
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -13,7 +12,7 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** 
+- **Category:jhhhh** 
 - **Mobile:**
 - **Story:**
 - **Market:**
