@@ -12,12 +12,12 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:jhhhh** 
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:Educational** 
+- **Mobile:IOS Application**
+- **Story:An application that lets begginer programmers learn in a fun competetive way!**
+- **Market:Incoming Computer Science Freshmen**
+- **Habit:Leaderboard system and fun game layout will form habits **
+- **Scope:Can add levels to questions and have problems for expert programmers as well**
 
 ## Product Spec
 
@@ -25,17 +25,53 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* As a begginer programmer who uses Aspect, I want to be able to learn the basics of coding, so that I can improve.
+* As a gamer who uses Aspect, I want a fun and interactive game that can keep me engaged so that I am not bored. 
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* As a CS teacher who uses Aspect I want a way to track my student's progress, so that I can use the app for class.
+* As an experinced programmer who uses Aspect I want a way to have harder questions, so that I can improve my coding. 
 
 ### 2. Screen Archetypes
 
+* Launch Screen - Screen will show the name of the app "Aspect" with a fun animation
+   * As a recurring user of Aspect, I want to see a fun launch screen
+   
+ * Signup/Login - Screen will user to sign up or sign in to use aspect
+   * As a recurring user of Aspect, I want a means to save my progress so that I feel improvement
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* [fill out your first tab]
+* [fill out your second tab]
+* [fill out your third tab]
+
+**Flow Navigation** (Screen to Screen)
+
 * [list first screen here]
-   * [list associated required story here]
+   * [list screen navigation here]
    * ...
+* [list second screen here]
+   * [list screen navigation here]
+   * ...
+
+## Wireframes
+[Add picture of your hand sketched wireframes in this section]
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+### [BONUS] Digital Wireframes & Mockups
+
+### [BONUS] Interactive Prototype
+
+## Schema 
+[This section will be completed in Unit 9]
+### Models
+[Add table of models]
+### Networking
+- [Add list of network requests by screen ]
+- [Create basic snippets for each Parse network request]
+- [OPTIONAL: List endpoints if using existing API such as Yelp]
 
