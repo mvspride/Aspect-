@@ -26,7 +26,7 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 **Required Must-have Stories**
 
-* As a begginer programmer who uses Aspect, I want to be able to learn the basics of coding, so that I can improve.
+* As a beginner programmer who uses Aspect, I want to be able to learn the basics of coding, so that I can improve.
 * As a gamer who uses Aspect, I want a fun and interactive game that can keep me engaged so that I am not bored. 
 
 **Optional Nice-to-have Stories**
