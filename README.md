@@ -16,7 +16,7 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 - **Category:Educational** 
 - **Mobile:IOS Application**
 - **Story:An application that lets people learn the basics of programming in a fun competetive way!**
-- **Market:Anybody Intrested In Coding**
+- **Market:Anybody intrested in coding**
 - **Habit:Leaderboard system and fun game layout will form habits**
 - **Scope:Can add levels to questions and have problems for expert programmers as well**
 
