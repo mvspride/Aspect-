@@ -46,26 +46,26 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Register Button -> Takes them to Homepage
+* Signup Button -> Takes them to Homepage
+* Next Button -> Takes them to next question/page
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Register Screen 
+   * Register Button -> Takes them to Homepage
+   
+* Signup Screen 
+   * Signup Button -> Takes them to Homepage
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://recordit.co/1obdLmjTMn.gif" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-
+<img src="https://recordit.co/1obdLmjTMn.gif" width=600>
 ### [BONUS] Interactive Prototype
+<img src="https://recordit.co/sJ6jGvZz5l.gif" width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
