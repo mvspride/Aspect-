@@ -94,16 +94,29 @@ query.findObjectsInBackground { (questions: [PFObject]?, error: Error?) in
    }
 }
 ```
-* (Create/POST) Create a new like on a post
-* (Delete) Delete existing like
-* (Create/POST) Create a new comment on a post
-* (Delete) Delete existing comment
 * Create Post Screen
-* (Create/POST) Create a new post object
+* (Create/POST) Create a new question
 * Profile Screen
 * (Read/GET) Query logged in user object
-* (Update/PUT) Update user profile image
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+* (Update/PUT) Update questions based on correctness
+
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Base URL - https://quizapi.io/
+```json
+  {
+    "id": 1,
+    "question": "How to delete a directory in Linux?",
+    "description": "delete folder",
+    "answers": {
+      "answer_a": "ls",
+      "answer_b": "delete",
+      "answer_c": "remove",
+      "answer_d": "rmdir",
+      "answer_e": null,
+      "answer_f": null
+    },
+    ```
+- curl https://quizapi.io/api/v1/questions -G \
+-d apiKey=YOUR_API_KEY \
+-d limit=10
 
