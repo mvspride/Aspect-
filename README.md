@@ -94,7 +94,7 @@ query.findObjectsInBackground { (questions: [PFObject]?, error: Error?) in
    }
 }
 ```
-*(Create/POST) Create a new like on a post
+* (Create/POST) Create a new like on a post
 *(Delete) Delete existing like
 *(Create/POST) Create a new comment on a post
 *(Delete) Delete existing comment
