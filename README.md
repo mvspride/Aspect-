@@ -69,11 +69,12 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 ## Schema 
 [This section will be completed in Unit 9]
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| Property  | Type | Description |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| questionid   | Int or String | unique ID for questions |
+| Question    | String       |   question being shown to the user|
+| CorrectCount | Number       |    # of questions got right |
+| IncorrectCount | Number       |    # of questions got wrong |
 
 ### Models
 [Add table of models]
