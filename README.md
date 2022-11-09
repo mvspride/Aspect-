@@ -80,7 +80,7 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 ### Networking
 * Home Feed Screen
-* (Read/GET) Query all questions related to the user 
+ -(Read/GET) Query all questions related to the user 
 ```java
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
