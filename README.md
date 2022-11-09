@@ -80,20 +80,17 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 
 ### Networking
 * Home Feed Screen
- ** (Read/GET) Query all questions related to the user 
+* (Read/GET) Query all questions related to the user 
 ```java
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-let query = PFQuery(className:"Post")
-query.whereKey("author", equalTo: currentUser)
-query.order(byDescending: "createdAt")
-query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
+let query = PFQuery(className:"Question")
+query.whereKey("questiontype", equalTo: currentUser)
+query.order(byDescending: "Diffculty")
+query.findObjectsInBackground { (questions: [PFObject]?, error: Error?) in
    if let error = error { 
       print(error.localizedDescription)
-   } else if let posts = posts {
-      print("Successfully retrieved \(posts.count) posts.")
-  // TODO: Do something with posts...
+   } else if let questions = questions {
+      print("Successfully retrieved \(questions.count) questions.")
+  // TODO: Do something with questions...
    }
 }
 ```
