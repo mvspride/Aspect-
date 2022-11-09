@@ -115,7 +115,7 @@ query.findObjectsInBackground { (questions: [PFObject]?, error: Error?) in
       "answer_e": null,
       "answer_f": null
     }
-    ```
+   
 * - curl https://quizapi.io/api/v1/questions -G \
 * -d apiKey=YOUR_API_KEY \
 * -d limit=10
