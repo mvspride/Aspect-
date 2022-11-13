@@ -66,7 +66,7 @@ Aspect is a fun coding learning application meant for beginner programmers. Lear
 <img src="https://recordit.co/1obdLmjTMn.gif" width=600>
 ### [BONUS] Interactive Prototype
 <img src="https://recordit.co/sJ6jGvZz5l.gif" width=600>
-
+https://i.imgur.com/0eVbALQ.gif
 ## Schema 
 ### Models
 [Add table of models]
